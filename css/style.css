@@ -539,7 +539,6 @@ ul {
 
 .portfolio-card {
     flex-basis: calc((100% - 60px) / 3);
-    border: 1px solid #EEEEEE;
 }
 
 .portfolio-card:hover {
